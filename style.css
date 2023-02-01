@@ -8,12 +8,13 @@
 body{
     background-color: lightyellow;
     min-height: 100vh;
+    /* width: 100%; */
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .container{
-    width: 60%;
+    width: 90%;
     max-width: 600px;
     display: flex;
     flex-direction: column;
